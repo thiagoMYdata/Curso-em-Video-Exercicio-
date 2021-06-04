@@ -1,0 +1,2 @@
+l1 , l2 = float( input ("Digite o valor da largura da parede: ")), float (input( "digite o valor da altura da parede: "))
+print(f"Sua parede tem a dimenção de {l1*l2:.2f},logo a quantidade de tinta necessaria para pintar toda área é de {l1*l2/2:.2f}L ")
