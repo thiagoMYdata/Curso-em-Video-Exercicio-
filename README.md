@@ -1,2 +1,2 @@
-# Curso em vídeo Python-exercícios
+# Python-exercícios
 Meus projetos de Python do Curso em video
